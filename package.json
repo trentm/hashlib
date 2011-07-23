@@ -2,7 +2,7 @@
   "name": "trentm-hashlib",
   "author": "Illarionov Oleg",
   "description": "lib for node which makes hashes (a fork to publish some fixes to npm)",
-  "version": "1.0.0.1",
+  "version": "1.0.1",
   "contributors": [ 
     { "name": "Fedor Indutny", "email": "fedor.indutny@gmail.com" },
     { "name": "Seth Fitzsimmons", "email": "seth@mojodna.net" },
